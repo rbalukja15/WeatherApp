@@ -1,5 +1,5 @@
 body {
-    color: #333333;
+    color: #323232;
     max-width: 600px;
     margin: 0 auto;
     padding: 0 16px;
@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    margin-top: 16px;
+    margin-top: 20px;
     margin-bottom: 48px;
 }
 
