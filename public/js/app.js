@@ -1,4 +1,4 @@
-console.log('Website is loaded');
+console.log('Website is loaded...');
 
 const weatherForm = document.querySelector('form');
 const weatherInput = document.querySelector('input');
